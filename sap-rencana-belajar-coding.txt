@@ -1,0 +1,3 @@
+Hal yang ingin dipelajari
+- laravel 10
+- javascript dom
