@@ -3,3 +3,4 @@ Hal yang ingin dipelajari
   * belajar fitur terbaru nya
 - javascript dom
 - Framework CSS
+- Framework Javascript
