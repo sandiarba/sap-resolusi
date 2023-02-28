@@ -2,5 +2,5 @@ Hal yang ingin dipelajari
 - laravel 10
   * belajar fitur terbaru nya
 - javascript dom
-- Framework CSS
 - Framework Javascript
+- Belajar Hosting
